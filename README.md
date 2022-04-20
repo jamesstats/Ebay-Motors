@@ -1,2 +1,2 @@
 # Ebay-Motors
-Honda Civic recently sold
+Honda Civic TypeR that recently sold on Ebay. 
